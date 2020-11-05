@@ -6,7 +6,11 @@ description: |-
   Terraform provider scaffolding.
 ---
 
-<div style="width: 100%;height:100%;background-color:#000; color:#fff; text-align:center; top: 0; left: 0; position: absolute;font-size:5em">Hello World</div>
+<div style="width: 320px;height: 82px;background-color: #5c4ee5;color:#fff;text-align: left;top: -175px;left: -5px;position: absolute;font-size: 2.2em;z-index: 999;font-family: 'Comic Sans MS';padding-top: 0.3em;">Radek's Registry</div>
+
+<img src="https://d3ui957tjb5bqd.cloudfront.net/uploads/2017/05/welcome.gif">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Scaffolding Provider
 
